@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "240225426358",
+    "firebase_url": "https://music-player-da465.firebaseio.com",
+    "project_id": "music-player-da465",
+    "storage_bucket": "music-player-da465.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:240225426358:android:fd29ee2c3788a11d",
+        "android_client_info": {
+          "package_name": "com.example.musicplayer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "240225426358-8b2m9b31g78r93fh5ieme24av0gnbcfb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfmj0xDcRSoA1Cgm98tbJ2I-LOvbVjIy4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

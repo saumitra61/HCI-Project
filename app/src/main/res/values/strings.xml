@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Music Player</string>
+    <string name="music_player">Music Player</string>
+    <string name="textview">TextView</string>
+    <string name="username">Username</string>
+
+</resources>
